@@ -4,3 +4,7 @@ My Discord Server
 https://discord.gg/vW3dFaHH8x
 ----------------
 
+credits
+--------
+obaqz's
+
