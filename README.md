@@ -1,3 +1,4 @@
-# SSBPS-Realms please Only use this For P2W realms
+#PATCHED AS OF 1.21.61
+# -------------------------------
 
 
